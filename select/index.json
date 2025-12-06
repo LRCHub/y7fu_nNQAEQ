@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "ドーナツホール",
+  "base_artist": "米津玄師",
+  "createdAt": "2025-12-06T05:56:12.252628Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ドーナツホール - COVER",
+      "artist": "Kenshi Yonezu",
+      "has_synced": true,
+      "path": "select/01_ドーナツホール_-_COVER_Kenshi_Yonezu.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ドーナツホール (COVER)",
+      "artist": "米津玄師",
+      "has_synced": true,
+      "path": "select/02_ドーナツホール_(COVER)_米津玄師.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ドーナツホール",
+      "artist": "米津玄師",
+      "has_synced": true,
+      "path": "select/03_ドーナツホール_米津玄師.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ドーナツホール",
+      "artist": "hachi",
+      "has_synced": true,
+      "path": "select/04_ドーナツホール_hachi.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ドーナツホール",
+      "artist": "hachi",
+      "has_synced": true,
+      "path": "select/05_ドーナツホール_hachi.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ドーナツホール - DONUT HOLE",
+      "artist": "HACHI",
+      "has_synced": true,
+      "path": "select/06_ドーナツホール_-_DONUT_HOLE_HACHI.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ドーナツホール",
+      "artist": "rachie",
+      "has_synced": true,
+      "path": "select/07_ドーナツホール_rachie.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ドーナツホール - DONUT HOLE",
+      "artist": "Kenshi Yonezu",
+      "has_synced": true,
+      "path": "select/08_ドーナツホール_-_DONUT_HOLE_Kenshi_Yonezu.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ドーナツホール",
+      "artist": "ハチ",
+      "has_synced": true,
+      "path": "select/09_ドーナツホール_ハチ.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "ドーナツホール (COVER)",
+      "artist": "Yonezu Kenshi",
+      "has_synced": true,
+      "path": "select/10_ドーナツホール_(COVER)_Yonezu_Kenshi.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "ドーナツホール (COVER) - Doughnut Hole (Cover)",
+      "artist": "Kenshi Yonezu",
+      "has_synced": true,
+      "path": "select/11_ドーナツホール_(COVER)_-_Doughnut_Hole_(Cover)_Kenshi_Yonezu.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Donut Hole (ドーナツホール)",
+      "artist": "Hachi",
+      "has_synced": true,
+      "path": "select/12_Donut_Hole_(ドーナツホール)_Hachi.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "ドーナツホール(COVER)",
+      "artist": "米津玄师",
+      "has_synced": true,
+      "path": "select/13_ドーナツホール(COVER)_米津玄师.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Donut Hole (COVER) [ドーナツホール]",
+      "artist": "Kenshi Yonezu [米津玄師]",
+      "has_synced": true,
+      "path": "select/14_Donut_Hole_(COVER)_[ドーナツホール]_Kenshi_Yonezu_[米津玄師].lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "ドーナツホール / Doughnut Hole (COVER)",
+      "artist": "Kenshi Yonezu",
+      "has_synced": true,
+      "path": "select/15_ドーナツホール___Doughnut_Hole_(COVER)_Kenshi_Yonezu.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ドーナツホール (COVER)",
+      "artist": "米津玄師",
+      "has_synced": false,
+      "path": "select/pl_01_ドーナツホール_(COVER)_米津玄師.txt"
+    }
+  ]
+}
